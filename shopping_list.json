@@ -1,0 +1,26 @@
+[
+    {
+        "itemName": "Apples",
+        "category": "Fruits",
+        "price": 0.5,
+        "quantityToBuy": 10,
+        "quantityAvailable": 3,
+        "bought": false
+    },
+    {
+        "itemName": "Bread",
+        "category": "Bakery",
+        "price": 1.5,
+        "quantityToBuy": 2,
+        "quantityAvailable": 0,
+        "bought": false
+    },
+    {
+        "itemName": "Milk",
+        "category": "Dairy",
+        "price": 0.9,
+        "quantityToBuy": 1,
+        "quantityAvailable": 1,
+        "bought": true
+    }
+]
